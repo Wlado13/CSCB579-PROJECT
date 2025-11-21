@@ -1,0 +1,9 @@
+C:\Users\Vladimir\source\repos\StudentEnrollmentApp\StudentEnrollmentApp\bin\Debug\StudentEnrollmentApp.exe.config
+C:\Users\Vladimir\source\repos\StudentEnrollmentApp\StudentEnrollmentApp\bin\Debug\StudentEnrollmentApp.exe
+C:\Users\Vladimir\source\repos\StudentEnrollmentApp\StudentEnrollmentApp\bin\Debug\StudentEnrollmentApp.pdb
+C:\Users\Vladimir\source\repos\StudentEnrollmentApp\StudentEnrollmentApp\obj\Debug\StudentEnrollmentApp.csproj.AssemblyReference.cache
+C:\Users\Vladimir\source\repos\StudentEnrollmentApp\StudentEnrollmentApp\obj\Debug\StudentEnrollmentApp.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\StudentEnrollmentApp\StudentEnrollmentApp\obj\Debug\StudentEnrollmentApp.csproj.GenerateResource.cache
+C:\Users\Vladimir\source\repos\StudentEnrollmentApp\StudentEnrollmentApp\obj\Debug\StudentEnrollmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\StudentEnrollmentApp\StudentEnrollmentApp\obj\Debug\StudentEnrollmentApp.exe
+C:\Users\Vladimir\source\repos\StudentEnrollmentApp\StudentEnrollmentApp\obj\Debug\StudentEnrollmentApp.pdb
